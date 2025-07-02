@@ -3,6 +3,7 @@
 ---
 
 # Assessment Rubric / 评估量规
+
 ## Feasibility Report: Mars Colonization Plan / 可行性报告：火星移民计划
 
 **English:** This rubric is designed to assess the quality of the final feasibility report. It serves as a guide for both students (for self-assessment and peer-assessment) and teachers (for grading). Each criterion will be scored on a scale of 1 to 4.
@@ -12,6 +13,7 @@
 ---
 
 ### **1. Scientific Rigor / 科学严谨性**
+
 *Critique: Are the proposals and calculations based on sound, accurate scientific principles?*
 *评判标准: 方案和计算是否基于坚实、准确的科学原理？*
 
@@ -22,6 +24,7 @@
 ---
 
 ### **2. System Integration / 系统整合性**
+
 *Critique: Does the plan recognize and address the complex interdependencies between different systems (e.g., energy, life support, transportation)?*
 *评判标准: 计划是否识别并处理了不同系统（如能源、生保、运输）之间复杂的相互依赖关系？*
 
@@ -32,6 +35,7 @@
 ---
 
 ### **3. Innovation & Feasibility / 创新与可行性**
+
 *Critique: Does the plan strike a good balance between creative, forward-thinking ideas and the realistic constraints of science and engineering?*
 *评判标准: 计划是否在创造性的、前瞻性的想法与科学和工程的现实约束之间取得了良好平衡？*
 
@@ -42,6 +46,7 @@
 ---
 
 ### **4. Research & Evidence / 研究与证据**
+
 *Critique: Is the report well-researched, using credible sources (including the provided resource packs) to support claims and decisions?*
 *评判标准: 报告是否经过充分研究，并使用可靠来源（包括提供的资源包）来支持其主张和决策？*
 
@@ -52,9 +57,10 @@
 ---
 
 ### **5. Clarity & Format / 表达与规范**
+
 *Critique: Is the report well-organized, clearly written, and does it follow the required professional format?*
 *评判标准: 报告是否结构合理，书写清晰，并遵循了所要求的专业格式？*
 
 | **4: Expert / 专家级** | **3: Proficient / 熟练级** | **2: Developing / 发展中** | **1: Novice / 新手级** |
 | :--- | :--- | :--- | :--- |
-| **(EN)** The report is logically structured, with clear headings and a professional tone. The language is precise and easy to understand. It is free from grammatical and spelling errors. All formatting requirements are met. <br/><br/> **(ZH)** 报告结构逻辑清晰，标题明确，语调专业。语言精确且易于理解。没有语法或拼写错误。满足所有格式要求。 | **(EN)** The report is generally well-organized and clear. It may have a few minor errors in grammar, spelling, or formatting. The tone is appropriate. <br/><br/> **(ZH)** 报告总体上结构良好、表达清晰。可能在语法、拼写或格式上有一些小错误。语调得体。 | **(EN)** The report's organization is sometimes unclear, making it difficult to follow. Contains several errors in grammar and spelling. Does not fully meet formatting requirements. <br/><br/> **(ZH)** 报告的组织结构有时不清晰，使其难以跟读。包含若干语法和拼写错误。未完全满足格式要求。 | **(EN)** The report is poorly organized and difficult to understand. It is riddled with errors in grammar and spelling. Formatting is largely ignored. <br/><br/> **(ZH)** 报告组织混乱，难以理解。充满了语法和拼写错误。格式要求基本被忽略。 | 
+| **(EN)** The report is logically structured, with clear headings and a professional tone. The language is precise and easy to understand. It is free from grammatical and spelling errors. All formatting requirements are met. <br/><br/> **(ZH)** 报告结构逻辑清晰，标题明确，语调专业。语言精确且易于理解。没有语法或拼写错误。满足所有格式要求。 | **(EN)** The report is generally well-organized and clear. It may have a few minor errors in grammar, spelling, or formatting. The tone is appropriate. <br/><br/> **(ZH)** 报告总体上结构良好、表达清晰。可能在语法、拼写或格式上有一些小错误。语调得体。 | **(EN)** The report's organization is sometimes unclear, making it difficult to follow. Contains several errors in grammar and spelling. Does not fully meet formatting requirements. <br/><br/> **(ZH)** 报告的组织结构有时不清晰，使其难以跟读。包含若干语法和拼写错误。未完全满足格式要求。 | **(EN)** The report is poorly organized and difficult to understand. It is riddled with errors in grammar and spelling. Formatting is largely ignored. <br/><br/> **(ZH)** 报告组织混乱，难以理解。充满了语法和拼写错误。格式要求基本被忽略。 |

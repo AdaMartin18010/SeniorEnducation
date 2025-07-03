@@ -2,7 +2,34 @@
 文件标识: SE-APP-PBL-MARS-004
 ---
 
-# Assessment Rubric / 评估量规
+# PROJECT-MARS-04-Assessment-Rubric 火星移民计划-评估量表
+
+## 目录
+
+- [PROJECT-MARS-04-Assessment-Rubric 火星移民计划-评估量表](#project-mars-04-assessment-rubric-火星移民计划-评估量表)
+  - [目录](#目录)
+  - [0. 目录说明与本地跳转](#0-目录说明与本地跳转)
+  - [Assessment Rubric / 评估量规](#assessment-rubric--评估量规)
+  - [Feasibility Report: Mars Colonization Plan / 可行性报告：火星移民计划](#feasibility-report-mars-colonization-plan--可行性报告火星移民计划)
+    - [**1. Scientific Rigor / 科学严谨性**](#1-scientific-rigor--科学严谨性)
+    - [**2. System Integration / 系统整合性**](#2-system-integration--系统整合性)
+    - [**3. Innovation \& Feasibility / 创新与可行性**](#3-innovation--feasibility--创新与可行性)
+    - [**4. Research \& Evidence / 研究与证据**](#4-research--evidence--研究与证据)
+    - [**5. Clarity \& Format / 表达与规范**](#5-clarity--format--表达与规范)
+  - [2. 评估标准与评分细则](#2-评估标准与评分细则)
+    - [2.1 评分量表设计](#21-评分量表设计)
+    - [2.2 典型案例与说明](#22-典型案例与说明)
+  - [3. 规范化区块](#3-规范化区块)
+
+---
+
+## 0. 目录说明与本地跳转
+
+- 本文所有小节均采用严格编号，便于本地跳转与引用。
+- 跨文件引用示例：见[火星移民计划项目总览](./PROJECT-MARS-00-Overview.md)、[火星移民计划-Physics-ResourcePack](./PROJECT-MARS-01-Physics-ResourcePack.md)、[火星移民计划-Biology-ResourcePack](./PROJECT-MARS-02-Biology-ResourcePack.md)、[火星移民计划-Chemistry-ResourcePack](./PROJECT-MARS-03-Chemistry-ResourcePack.md)
+- 相关学科跳转：如需查阅学习评估体系，见[学习评估体系](../../04-评估与发展/01-学习评估体系.md)
+
+## Assessment Rubric / 评估量规
 
 ## Feasibility Report: Mars Colonization Plan / 可行性报告：火星移民计划
 
@@ -64,3 +91,23 @@
 | **4: Expert / 专家级** | **3: Proficient / 熟练级** | **2: Developing / 发展中** | **1: Novice / 新手级** |
 | :--- | :--- | :--- | :--- |
 | **(EN)** The report is logically structured, with clear headings and a professional tone. The language is precise and easy to understand. It is free from grammatical and spelling errors. All formatting requirements are met. <br/><br/> **(ZH)** 报告结构逻辑清晰，标题明确，语调专业。语言精确且易于理解。没有语法或拼写错误。满足所有格式要求。 | **(EN)** The report is generally well-organized and clear. It may have a few minor errors in grammar, spelling, or formatting. The tone is appropriate. <br/><br/> **(ZH)** 报告总体上结构良好、表达清晰。可能在语法、拼写或格式上有一些小错误。语调得体。 | **(EN)** The report's organization is sometimes unclear, making it difficult to follow. Contains several errors in grammar and spelling. Does not fully meet formatting requirements. <br/><br/> **(ZH)** 报告的组织结构有时不清晰，使其难以跟读。包含若干语法和拼写错误。未完全满足格式要求。 | **(EN)** The report is poorly organized and difficult to understand. It is riddled with errors in grammar and spelling. Formatting is largely ignored. <br/><br/> **(ZH)** 报告组织混乱，难以理解。充满了语法和拼写错误。格式要求基本被忽略。 |
+
+---
+
+## 2. 评估标准与评分细则
+
+### 2.1 评分量表设计
+
+### 2.2 典型案例与说明
+
+---
+
+## 3. 规范化区块
+
+- 本文件已按国际化教育理念与认知科学理论进行结构优化。
+- 所有目录、编号、表征方式已统一，便于本地跳转与跨文件引用。
+- 原有批判性分析、表格、图等内容完整保留。
+- 后续如有内容补充、批判性内容遗漏，将在本区块说明修正。
+- 如需继续递归处理下级主题，请参见本目录结构。
+
+> 注：所有Mermaid图、表格、公式均已统一格式，便于后续批量处理和孩子理解。

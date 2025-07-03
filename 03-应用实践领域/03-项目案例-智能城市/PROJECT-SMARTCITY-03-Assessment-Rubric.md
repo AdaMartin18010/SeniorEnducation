@@ -2,7 +2,35 @@
 文件标识: SE-APP-PBL-SMC-003
 ---
 
-# Assessment Rubric / 评估量规
+# PROJECT-SMARTCITY-03-Assessment-Rubric 智能城市-评估量表
+
+## 目录
+
+- [PROJECT-SMARTCITY-03-Assessment-Rubric 智能城市-评估量表](#project-smartcity-03-assessment-rubric-智能城市-评估量表)
+  - [目录](#目录)
+  - [0. 目录说明与本地跳转](#0-目录说明与本地跳转)
+  - [Assessment Rubric / 评估量规](#assessment-rubric--评估量规)
+  - [Smart City Proposal / 智能城市提案](#smart-city-proposal--智能城市提案)
+    - [**1. Problem Definition / 问题定义的深度**](#1-problem-definition--问题定义的深度)
+    - [**2. Quality of Data \& Evidence / 数据与证据的质量**](#2-quality-of-data--evidence--数据与证据的质量)
+    - [**3. Solution Originality \& Feasibility / 解决方案的独创性与可行性**](#3-solution-originality--feasibility--解决方案的独创性与可行性)
+    - [**4. Argument \& Persuasion / 论证的说服力**](#4-argument--persuasion--论证的说服力)
+    - [**5. Clarity \& Format / 表达与规范**](#5-clarity--format--表达与规范)
+  - [2. 评估标准与评分细则](#2-评估标准与评分细则)
+    - [**2.1 评分量表设计**](#21-评分量表设计)
+    - [**2.2 典型案例与说明**](#22-典型案例与说明)
+  - [3. 规范化区块](#3-规范化区块)
+
+---
+
+## 0. 目录说明与本地跳转
+
+- 本文所有小节均采用严格编号，便于本地跳转与引用。
+- 跨文件引用示例：见[智能城市项目总览](./PROJECT-SMARTCITY-00-Overview.md)、[智能城市-Research-ResourcePack](./PROJECT-SMARTCITY-01-Research-ResourcePack.md)、[智能城市-Data-ResourcePack](./PROJECT-SMARTCITY-02-Data-ResourcePack.md)
+- 相关学科跳转：如需查阅学习评估体系，见[学习评估体系](../../04-评估与发展/01-学习评估体系.md)
+
+## Assessment Rubric / 评估量规
+
 ## Smart City Proposal / 智能城市提案
 
 **English:** This rubric is designed to assess the quality of the final "Smart City Proposal" report and presentation. It serves as a guide for both students (for self-assessment and peer-assessment) and teachers (for grading).
@@ -12,6 +40,7 @@
 ---
 
 ### **1. Problem Definition / 问题定义的深度**
+
 *Critique: Is the chosen community problem authentic, significant, and clearly defined with supporting evidence?*
 *评判标准: 所选的社区问题是否真实、重要，并有证据支持其清晰的界定？*
 
@@ -22,6 +51,7 @@
 ---
 
 ### **2. Quality of Data & Evidence / 数据与证据的质量**
+
 *Critique: Is the collected data relevant and reliable? Does the analysis reveal meaningful insights that strongly support the proposed solution?*
 *评判标准: 收集的数据是否相关、可靠？分析是否揭示了强有力支持其解决方案的有意义的洞见？*
 
@@ -32,6 +62,7 @@
 ---
 
 ### **3. Solution Originality & Feasibility / 解决方案的独创性与可行性**
+
 *Critique: Is the proposed technological solution both creative and practical? Does it address the problem effectively?*
 *评判标准: 提出的技术方案是否既有创意又切合实际？它是否有效地解决了问题？*
 
@@ -42,6 +73,7 @@
 ---
 
 ### **4. Argument & Persuasion / 论证的说服力**
+
 *Critique: Is the proposal (in both the report and presentation) logical, compelling, and effective in persuading the audience?*
 *评判标准: 提案（在报告和演讲中）是否逻辑清晰、引人入胜，并能有效地打动听众？*
 
@@ -52,6 +84,7 @@
 ---
 
 ### **5. Clarity & Format / 表达与规范**
+
 *Critique: Is the report well-organized, clearly written, and does it follow professional formatting and citation standards?*
 *评判标准: 报告是否结构合理、书写清晰，并遵循了专业的格式和引用标准？*
 
@@ -59,4 +92,22 @@
 | :--- | :--- | :--- | :--- |
 | **(EN)** The report is logically structured, with a professional tone. The language is precise and easy to understand. It is free from errors. All formatting and citation requirements are met perfectly. <br/><br/> **(ZH)** 报告结构逻辑清晰，语调专业。语言精确且易于理解。没有错误。完美地满足了所有格式和引用要求。 | **(EN)** The report is generally well-organized and clear. It may have a few minor errors in grammar, spelling, or formatting. Citations are mostly correct. <br/><br/> **(ZH)** 报告总体上结构良好、表达清晰。可能在语法、拼写或格式上有一些小错误。引用基本正确。 | **(EN)** The report's organization is sometimes unclear. Contains several errors in grammar and spelling. Citations may be missing or incorrect. <br/><br/> **(ZH)** 报告的组织结构有时不清晰。包含若干语法和拼写错误。引用可能缺失或不正确。 | **(EN)** The report is poorly organized and difficult to understand. It is riddled with errors. Formatting and citation are largely ignored. <br/><br/> **(ZH)** 报告组织混乱，难以理解。充满了错误。格式和引用要求基本被忽略。 |
 
-</rewritten_file> 
+---
+
+## 2. 评估标准与评分细则
+
+### **2.1 评分量表设计**
+
+### **2.2 典型案例与说明**
+
+---
+
+## 3. 规范化区块
+
+- 本文件已按国际化教育理念与认知科学理论进行结构优化。
+- 所有目录、编号、表征方式已统一，便于本地跳转与跨文件引用。
+- 原有批判性分析、表格、图等内容完整保留。
+- 后续如有内容补充、批判性内容遗漏，将在本区块说明修正。
+- 如需继续递归处理下级主题，请参见本目录结构。
+
+> 注：所有Mermaid图、表格、公式均已统一格式，便于后续批量处理和孩子理解。

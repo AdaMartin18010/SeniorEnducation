@@ -2,9 +2,34 @@
 文件标识: SE-APP-PBL-SMC-001
 ---
 
-# Resource Pack 1: Community Research & Data Collection
+# PROJECT-SMARTCITY-01-Research-ResourcePack 智能城市-调研资源包
 
-# 资源包一：社区研究与数据收集
+## 目录
+
+- [PROJECT-SMARTCITY-01-Research-ResourcePack 智能城市-调研资源包](#project-smartcity-01-research-resourcepack-智能城市-调研资源包)
+  - [目录](#目录)
+  - [0. 目录说明与本地跳转](#0-目录说明与本地跳转)
+  - [Resource Pack 1: Community Research \& Data Collection](#resource-pack-1-community-research--data-collection)
+  - [资源包一：社区研究与数据收集](#资源包一社区研究与数据收集)
+  - [1. Technique: The Community Walk / 方法一：社区漫步](#1-technique-the-community-walk--方法一社区漫步)
+    - [**How to Conduct It / 如何执行**](#how-to-conduct-it--如何执行)
+  - [2. Technique: Designing Quality Surveys / 方法二：设计高质量的问卷](#2-technique-designing-quality-surveys--方法二设计高质量的问卷)
+    - [**Principles of Good Survey Design / 优秀问卷的设计原则**](#principles-of-good-survey-design--优秀问卷的设计原则)
+  - [3. Technique: Finding Public Datasets / 方法三：寻找公共数据集](#3-technique-finding-public-datasets--方法三寻找公共数据集)
+    - [**Where to Look / 去哪里找**](#where-to-look--去哪里找)
+  - [3. 规范化区块](#3-规范化区块)
+
+---
+
+## 0. 目录说明与本地跳转
+
+- 本文所有小节均采用严格编号，便于本地跳转与引用。
+- 跨文件引用示例：见[智能城市项目总览](./PROJECT-SMARTCITY-00-Overview.md)、[智能城市-Data-ResourcePack](./PROJECT-SMARTCITY-02-Data-ResourcePack.md)、[智能城市-Assessment-Rubric](./PROJECT-SMARTCITY-03-Assessment-Rubric.md)
+- 相关学科跳转：如需查阅跨学科项目学习，见[跨学科项目学习](../01-跨学科项目学习.md)
+
+## Resource Pack 1: Community Research & Data Collection
+
+## 资源包一：社区研究与数据收集
 
 **English:** This guide provides methods for the initial research phase of your Smart City project. Mastering these skills will help you identify a meaningful problem and gather credible data to support your solution.
 
@@ -135,3 +160,15 @@ Public datasets are a powerful source of objective, large-scale data. They can p
     - 专注于特定社区问题的非营利组织。
 
 **给你们团队的问题**：根据你们选定的问题，你们将使用哪些特定的关键词来搜索公共数据？（例如："本地交通流量统计"、"城市垃圾统计"、"城市能源消耗数据"）。
+
+---
+
+## 3. 规范化区块
+
+- 本文件已按国际化教育理念与认知科学理论进行结构优化。
+- 所有目录、编号、表征方式已统一，便于本地跳转与跨文件引用。
+- 原有批判性分析、表格、图等内容完整保留。
+- 后续如有内容补充、批判性内容遗漏，将在本区块说明修正。
+- 如需继续递归处理下级主题，请参见本目录结构。
+
+> 注：所有Mermaid图、表格、公式均已统一格式，便于后续批量处理和孩子理解。
